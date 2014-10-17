@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vbk:home|Door43 (vbk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vbk|d43-vbk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vbk/archive/master.zip|d43-vbk.zip]]
+
+**Recent Changes**
+{{changes>ns = vbk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vbk|Ethnologue data]]
+
